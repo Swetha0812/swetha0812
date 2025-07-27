@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Swetha</h1>
 <h3 align="center">A passionate experienced developer with hands-on knowledge from Amazon, Accenture</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=swetha0812&label=Profile%20views&color=0e75b6&style=flat" alt="swetha0812" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=swetha-kasturi&label=Profile%20views&color=0e75b6&style=flat" alt="swetha-kasturi" /> </p>
 
 - 🔭 I’m currently working on **building new projects**
 
