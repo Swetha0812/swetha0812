@@ -1,11 +1,18 @@
-<h1 align="center">Hi 👋, I'm Swetha</h1>
-<h3 align="center">A passionate experienced developer with hands-on knowledge from Amazon, Accenture</h3>
+👋 Hi, I'm Swetha Sri Anjani Kasturi
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=swetha-kasturi&label=Profile%20views&color=0e75b6&style=flat" alt="swetha-kasturi" /> </p>
+💻 Software Engineer | Data Enthusiast | Full-Stack Developer  
+☁️ Certified in AWS, GCP, MongoDB, Kubernetes  
+🔧 Skilled in Python, Java, SQL, Talend, Angular, Node.js, and Django  
+📊 Passionate about building scalable data pipelines, cloud-native apps, and clean, efficient code
 
-- 🔭 I’m currently working on **building new projects**
+🚀 Projects I’ve built:
+- 🛒 Serverless E-Commerce Platform on AWS
+- 🔐 Secure IIoT Data Sharing System (Published Paper)
+- 🌐 Full-Stack Social Networking Web App
 
-- 📫 How to reach me **kasturiswetha08@gmail.com**
+📈 Always learning, always building — let’s connect and collaborate!
+
+📫 Reach me at: kasturiswethasrianjani@gmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
